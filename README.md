@@ -1,5 +1,5 @@
 # NeuMF
-Neural network Recommender System\n
-NCF: it's a collaborative Filtering RS that use Neural Network/n
-NeuMF: combination of Neural Network and Matrix Factorization /n
-Data : MovieLense 100k
+Neural network Recommender System
+- NCF: it's a collaborative Filtering RS that use Neural Network
+- NeuMF: combination of Neural Network and Matrix Factorization
+- Data : MovieLense 100k
